@@ -1,0 +1,1 @@
+export const URL_TO_GET_TOKEN = 'https://data-nexus.idata.shopeemobile.com/api/v1/dn-s3/requestToken?requestKey=f2f11d12-7c12-4f1a-8443-89469d4c8013'
